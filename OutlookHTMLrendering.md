@@ -1,0 +1,1 @@
+* [Word 2007 HTML and CSS Rendering Capabilities in Outlook 2007 (Part 1 of 2)](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/aa338201(v=office.12)#Word2007MailHTMLandCSS_Word2007CSSSpecification)
