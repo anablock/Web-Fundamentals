@@ -1,0 +1,61 @@
+/* the order of the individual url values is important */
+@font-face {
+    font-family: 'lakeshore';
+    src: url('fonts/LAKESHOR-webfont.eot');
+    src: url('fonts/LAKESHOR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/LAKESHOR-webfont.woff') format('woff'),
+         url('fonts/LAKESHOR-webfont.ttf') format('truetype'),
+         url('fonts/LAKESHOR-webfont.svg#lakeshore') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-size: 10px;
+    background: rgb(149, 194, 215);
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo-text {
+    background: white;
+
+    text-align: center;
+    text-transform: uppercase;
+    font-family: lakeshore;
+    font-size: 37px;
+}
+
+.thumbnail-item + .thumbnail-item {
+    margin-top: 10px;
+}
+
+.thumbnail-item {
+    display: block; /* to get rid of whitespace */
+    border: 1px solid rgb(100%, 100%, 100%);
+    border: 1px solid rgba(100%, 100%, 100%, 0.8);
+}
+
+/* to get rid of bullets*/ 
+.thumbnail-list {
+    list-style: none;
+    padding: 0; /* override the padding from user agent stylesheet */
+}
+
+.thumbnail-image {
+    display: block;
+    width: 100%;
+}
+
+.thumbnail-title {
+    display: block;
+    margin: 0px;
+    padding: 4px 10px:
+
+    background: rgb(96, 125, 139);
+    color: rgb(202, 238, 255);
+
+    font-size: 18px;
+}
