@@ -6,7 +6,9 @@ Table of contents
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
-   * [DNS Checker](#dns-checker)
+   * [DNS](#dns)
+     * [DNS Checker](#dns-checker)
+     * [A Record](#a-record)
    * [Firebase API](#firebase-api)
    * [Firebase Hosting](#firebase-hosting)
    * [Firebase Projects](#firebase-projects)
@@ -16,6 +18,9 @@ Table of contents
 
 ## DNS Checker
 * https://dnschecker.org/
+## A Record
+A Record maps a domain name to the IP address of the computer hosting the domain.  A record is used to find the IP address of a computer connected to the internet from a name.
+* https://support.dnsimple.com/articles/a-record/
 
 ## Firebase API
 * [Firebase API Reference](https://firebase.google.com/docs/reference?authuser=0)
