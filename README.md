@@ -6,7 +6,7 @@
 
 ### Firebase Hosting
 * [Bluehost](https://my.bluehost.com/cgi/dm/zoneedit)
-* [Fireb
+* [Firebase Hosting Documentation](https://firebase.google.com/docs/hosting)
 
 #### Youtube
 * [Youtube - Connect A Custom Domain to Firebase Hosting](https://www.youtube.com/watch?v=Bcn5e57PpUc)
