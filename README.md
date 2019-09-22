@@ -6,10 +6,9 @@ Table of contents
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
+   * [DNS Checker](#dns-checker)
 <!--te-->
 
-Installation
-============
 
 ## DNS Checker
 * https://dnschecker.org/
