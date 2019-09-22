@@ -12,6 +12,7 @@ Table of contents
    * [Firebase API](#firebase-api)
    * [Firebase Hosting](#firebase-hosting)
    * [Firebase Projects](#firebase-projects)
+   * [Google Cloud Platform](#google-cloud-platform)
    * [Youtube](#youtube)
 <!--te-->
 
@@ -34,6 +35,9 @@ A Record maps a domain name to the IP address of the computer hosting the domain
 ## Firebase Projects
 * [Add Firebase to your JavaScript project](https://firebase.google.com/docs/web/setup?authuser=0#config-object)
 * [Understand Firebase projects](https://firebase.google.com/docs/projects/learn-more?authuser=0#config-files-objects)
+
+## Google Cloud Platform
+* [IAM & Admin Console](https://console.cloud.google.com/iam-admin/troubleshooter;principal=vuk@anablock.com;resource=%2F%2Fcloudresourcemanager.googleapis.com%2Fprojects%2Fwebapp-53a28;permission=firebase.projects.get?authuser=0&organizationId=911984442448&orgonly=true&supportedpurview=organizationId)
 
 ## Youtube
 * [Youtube - Connect A Custom Domain to Firebase Hosting](https://www.youtube.com/watch?v=Bcn5e57PpUc)
