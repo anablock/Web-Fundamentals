@@ -1,6 +1,16 @@
 # Web-Fundamentals
 * [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals/app-install-banners/)
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+<!--te-->
+
+Installation
+============
+
 ## DNS Checker
 * https://dnschecker.org/
 
