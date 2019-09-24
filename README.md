@@ -13,6 +13,7 @@ Table of contents
    * [Firebase Hosting](#firebase-hosting)
    * [Firebase Projects](#firebase-projects)
    * [Google Cloud Platform](#google-cloud-platform)
+   * [G Suite Toolbox](#g-suite-toolbox)
    * [React](#react)
    * [Youtube](#youtube)
 <!--te-->
@@ -39,6 +40,9 @@ A Record maps a domain name to the IP address of the computer hosting the domain
 
 ## Google Cloud Platform
 * [IAM & Admin Console](https://console.cloud.google.com/iam-admin/troubleshooter;principal=vuk@anablock.com;resource=%2F%2Fcloudresourcemanager.googleapis.com%2Fprojects%2Fwebapp-53a28;permission=firebase.projects.get?authuser=0&organizationId=911984442448&orgonly=true&supportedpurview=organizationId)
+
+## G Suite Toolbox
+* https://toolbox.googleapps.com/apps/dig/#A/
 
 ## React
 * [Create React App Deployment](https://create-react-app.dev/docs/deployment)
