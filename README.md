@@ -15,6 +15,7 @@ Table of contents
    * [Google Cloud Platform](#google-cloud-platform)
    * [G Suite Toolbox](#g-suite-toolbox)
    * [React](#react)
+   * [Web App Manifest](#web-app-manifest)
    * [Youtube](#youtube)
 <!--te-->
 
@@ -46,6 +47,9 @@ A Record maps a domain name to the IP address of the computer hosting the domain
 
 ## React
 * [Create React App Deployment](https://create-react-app.dev/docs/deployment)
+
+## Web App Manifest
+* https://developers.google.com/web/fundamentals/web-app-manifest/
 
 ## Youtube
 * [Youtube - Connect A Custom Domain to Firebase Hosting](https://www.youtube.com/watch?v=Bcn5e57PpUc)
