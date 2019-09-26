@@ -23,6 +23,7 @@ Table of contents
    * [G Suite Toolbox](#g-suite-toolbox)
    * [JSS integration with React](https://cssinjs.org/react-jss?v=v10.0.0)
    * [React](#react)
+   * [React JSS Playground](#react-jss-playground)
    * [Web App Manifest](#web-app-manifest)
    * [Youtube](#youtube)
 <!--te-->
@@ -55,6 +56,9 @@ A Record maps a domain name to the IP address of the computer hosting the domain
 
 ## React
 * [Create React App Deployment](https://create-react-app.dev/docs/deployment)
+
+## React JSS Playground
+* [React JSS Playground](https://codesandbox.io/s/j3l06yyqpw)
 
 ## Web App Manifest
 * https://developers.google.com/web/fundamentals/web-app-manifest/
