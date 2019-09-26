@@ -21,6 +21,7 @@ Table of contents
    * [Firebase Projects](#firebase-projects)
    * [Google Cloud Platform](#google-cloud-platform)
    * [G Suite Toolbox](#g-suite-toolbox)
+   * [JSS integration with React](https://cssinjs.org/react-jss?v=v10.0.0)
    * [React](#react)
    * [Web App Manifest](#web-app-manifest)
    * [Youtube](#youtube)
